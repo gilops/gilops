@@ -6,7 +6,7 @@ Perfil em desenvolvimento 💕
   
 - 👩‍💻 Senior System Analyst
 
-- 💬 Ask me about JavaScript, C#, .NET, career and more :)
+- 💬 Ask me about JavaScript, C#, .NET, GO, career and more :)
 <!--
 **gilops/gilops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
